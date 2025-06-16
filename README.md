@@ -24,7 +24,7 @@ This is a backend API for a Task Management application built with Node.js, Expr
 ## ⚙️ Setup Instructions
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/sangmesh-18/Task_Management.git
 cd task-manager-backend
 npm install
 cp .env.example .env
